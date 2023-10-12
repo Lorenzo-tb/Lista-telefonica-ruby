@@ -1,3 +1,3 @@
 ﻿# Lista-telefonica-ruby
 
- Install gems code: bundle install
+ Install gems code: ```bundle install```
