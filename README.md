@@ -1,3 +1,4 @@
 ﻿# Lista-telefonica-ruby
 
- Install gems code: ```bundle install```
+ Install gems comand: ```bundle install```
+ Start comand: ```ruby main.rb```
